@@ -51,3 +51,13 @@ if (temp > limite_temp)
 O projeto permitiu praticar conceitos básicos da linguagem C, principalmente entrada e saída de dados, estruturas condicionais, variáveis de controle e estruturas de repetição.
 
 A utilização de `while` e `do...while` foi importante para permitir que o programa continuasse executando enquanto determinadas condições fossem verdadeiras.
+
+## Como executar
+
+Para executar no GBD online:
+
+1. Acesse o OnlineGDB.
+2. Selecione a linguagem **C**.
+3. Cole o conteúdo do arquivo `monitoramento.c`.
+4. Clique em **Run** para compilar e executar o programa.
+
