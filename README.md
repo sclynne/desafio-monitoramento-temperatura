@@ -2,7 +2,7 @@
 
 
 **Aluna:** Suellen Carolynne Queiroz dos Santos  
-**Disciplina:** Algoritmoss e Pensamento Computacional
+**Disciplina:** Algoritimos e Pensamento Computacional
 **Professora:** Karla Sartin  
 **Título do projeto:** Monitoramento de Temperatura
 
