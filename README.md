@@ -8,7 +8,7 @@
 
 ---
 
-## 2. Objetivo
+## Objetivo
 
 O objetivo deste projeto é desenvolver, em linguagem C, um programa simples para monitorar leituras de temperatura.
 
