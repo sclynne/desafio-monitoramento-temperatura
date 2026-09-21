@@ -8,7 +8,7 @@
 
 ---
 
-## 1. Objetivo
+## 1. Objetivo:
 
 O objetivo deste projeto é desenvolver, em linguagem C, um programa simples para monitorar leituras de temperatura.
 
@@ -18,7 +18,7 @@ Também são calculadas a média, a maior e a menor temperatura, além da quanti
 
 ---
 
-## 2. Funcionamento do programa
+## 2. Funcionamento do programa:
 
 ### Limite de temperatura
 
@@ -81,7 +81,7 @@ maior temperatura;
 menor temperatura;
 quantidade de temperaturas acima do limite.
 
-3. Estruturas de repetição utilizadas
+## 3. Estruturas de repetição utilizadas:
 
 Foram utilizadas as estruturas do...while e while.
 
@@ -91,7 +91,7 @@ O while foi utilizado para manter o monitoramento ativo enquanto ainda não ocor
 
 Também foi utilizado um while para limpar entradas inválidas digitadas pelo usuário.
 
-4. Como executar o programa
+## 4. Como executar o programa:
 
 O programa foi testado utilizando o compilador online OnlineGDB.
 
@@ -107,7 +107,7 @@ Também é possível compilar e executar localmente utilizando GCC:
 gcc monitoramento.c -o monitoramento
 ./monitoramento
 
-5. Testes realizados
+## 5. Testes realizados:
 Teste 1 - Validação de entradas inválidas
 
 Foram inseridas entradas não numéricas tanto na definição do limite quanto durante a leitura da temperatura.
@@ -132,14 +132,15 @@ Foram informadas três temperaturas consecutivas acima desse valor.
 
 Resultado: o contador chegou a três leituras consecutivas acima do limite, o programa exibiu o alerta, apresentou o relatório final e encerrou automaticamente.
 
-6. Evidências
+## 6. Evidências:
 
 As evidências dos testes realizados estão disponíveis na pasta evidencias:
 
 teste01.png
 teste02.png
 teste03.png
-Questão final de reflexão
+
+## Questão final de reflexão:
 
 Utilizei o do...while para validar o limite, porque essa etapa precisa acontecer pelo menos uma vez.
 
