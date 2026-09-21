@@ -1,11 +1,10 @@
 # Desafio de Monitoramento de Temperatura
 
-## 1. Identificação
 
-**Nome do aluno:** [PREENCHER COM SEU NOME]  
-**Disciplina:** [PREENCHER COM O NOME DA DISCIPLINA]  
-**Professora:** Profa. Karla Sartin  
-**Título do projeto:** Sistema de Monitoramento de Temperatura
+**Aluna:** Suellen Carolynne Queiroz dos Santos  
+**Disciplina:** Algoritmoss e Pensamento Computacional
+**Professora:** Karla Sartin  
+**Título do projeto:** Monitoramento de Temperatura
 
 ---
 
