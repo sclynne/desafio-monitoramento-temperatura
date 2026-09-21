@@ -76,3 +76,11 @@ Foi definido o limite de 80 graus e foram informadas três temperaturas consecut
 
 **Resultado:** o contador chegou a três leituras consecutivas acima do limite, o programa exibiu o alerta, apresentou o relatório final e encerrou automaticamente.
 
+## Questão final de reflexão
+
+Usei `do...while` para validar o limite, porque essa etapa precisa acontecer pelo menos UMA vez.
+
+O `while` foi usado no monitoramento, pois é ele que verifica antes se ainda não ocorreram três temperaturas consecutivas acima do limite pedido.
+
+A diferença foi muito importante porque o `do...while` testa a condição depois da execução, enquanto o `while` testa antes.
+
