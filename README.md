@@ -58,9 +58,11 @@ Foram realizados três testes no OnlineGDB ( como ensinado anteriormente ) para 
 
 ### Teste 1 - Validação de entradas inválidas
 
-Foi informado um valor não numérico durante a execução.
+Foram inseridas entradas não numéricas tanto na definição do limite quanto na leitura da temperatura.
 
-**Resultado:** o programa identificou a entrada inválida, exibiu uma mensagem de erro e solicitou um novo valor sem encerrar a execução.
+**Entradas inválidas utilizadas:** `abc` e `teste`.
+
+**Resultado:** o programa identificou as entradas inválidas, exibiu uma mensagem de erro e solicitou novos valores sem interromper a execução.
 
 ### Teste 2 - Temperaturas acima do limite, porém não consecutivas
 
