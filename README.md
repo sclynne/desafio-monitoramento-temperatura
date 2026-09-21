@@ -78,7 +78,7 @@ Foi definido o limite de 80 graus e foram informadas três temperaturas consecut
 
 ## Questão final de reflexão
 
-Usei `do...while` para validar o limite, porque essa etapa precisa acontecer pelo menos UMA vez.
+Utilizei o `do...while` para validar o limite, porque essa etapa precisa acontecer pelo menos UMA vez.
 
 O `while` foi usado no monitoramento, pois é ele que verifica antes se ainda não ocorreram três temperaturas consecutivas acima do limite pedido.
 
