@@ -137,6 +137,20 @@ Resultado: o contador chegou a três leituras consecutivas acima do limite, o pr
 As evidências dos testes realizados estão disponíveis na pasta evidencias:
 
 teste01.png
+
+
+
+## 7. Arquivo .gitignore
+
+O projeto utiliza um arquivo `.gitignore` para
+evitar o envio de arquivos executáveis,
+temporários e de compilação ao GitHub.
+
+O código-fonte `monitoramento.c` e a pasta
+`evidencias`, contendo os registros dos
+três testes realizados, são mantidos
+no repositório para documentação da atividade.
+
 teste02.png
 teste03.png
 
