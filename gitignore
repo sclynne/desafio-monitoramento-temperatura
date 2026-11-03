@@ -1,0 +1,38 @@
+
+# Monitoramento de Temperatura em C
+# Ignorar arquivos temporários e de compilação
+
+# Arquivos executáveis
+*.exe
+*.out
+*.app
+/monitoramento
+
+# Arquivos objeto
+*.o
+*.obj
+
+# Arquivos de depuração
+*.dSYM/
+*.pdb
+*.ilk
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+*~
+
+# Arquivos de backup
+*.bak
+*.swp
+*.swo
+
+# Configurações locais de editores
+.vscode/
+.idea/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
